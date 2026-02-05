@@ -18,5 +18,6 @@ public class Ejercicio12 {
             }
         }
         System.out.println("Cantidad de veces encontrada: "+contador);
+        //   mensaje de prueba para detectar el cambio en git
     }
 }
